@@ -1,0 +1,24 @@
+{
+    "constituencies": [
+      {
+        "id": 1,
+        "name": "Candidate 1",
+        "color": "#ff6384"
+      },
+      {
+        "id": 2,
+        "name": "Candidate 2",
+        "color": "#36a2eb"
+      },
+      {
+        "id": 3,
+        "name": "Candidate 3",
+        "color": "#ffce56"
+      },
+      {
+        "id": 4,
+        "name": "Candidate 4",
+        "color": "#23efgh"
+      }
+    ]
+}
